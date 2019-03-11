@@ -1,2 +1,2 @@
 # gt1
-This program is to pratice in group
+This program is to pratice in groups 
